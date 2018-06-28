@@ -1,0 +1,9 @@
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\bin\Debug\Abathur.exe.config
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\bin\Debug\Abathur.exe
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\bin\Debug\Abathur.pdb
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\obj\Debug\Abathur.csproj.CoreCompileInputs.cache
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\obj\Debug\Abathur.exe
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\obj\Debug\Abathur.pdb
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\obj\Debug\Abathur.csproj.ResolveComReference.cache
+C:\Users\BySorin\Documents\Visual Studio 2017\Projects\Abathur\Abathur\obj\Debug\Abathur.csprojResolveAssemblyReference.cache
